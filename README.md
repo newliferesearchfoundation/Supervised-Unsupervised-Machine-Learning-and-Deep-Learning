@@ -1,2 +1,3 @@
-# Supervised-Unsupervised-Machine-Learning-and-Deep-Learning
+# Supervised Machine Learning, Unsupervised Machine Learning, and Deep Learning with Python
+
 This repository is part of the 3rd NELIREF Data Science &amp; AI Summer School 2026. It covers Supervised Machine Learning, Unsupervised Machine Learning, and Deep Learning with Python, introducing regression, classification, clustering, dimensionality reduction, neural networks, and model evaluation through hands-on notebooks and exercises.
